@@ -9,6 +9,12 @@
 - Saba Lemma
 - Marie Minier
 
+#### Steps of the Project
+1. Collect data for states regarding legislation
+2. Collect the aforementioned states and cities data for population and crime
+2. Mine through, merge, and clean data
+3. Create visualizations of the data outputs
+
 #### Tools Used
 1. Python
 2. Pandas
@@ -16,8 +22,5 @@
 4. Seaborn
 5. Numpy
 
-#### Steps of the Project
-1. Collect data for states regarding legislation
-2. Collect the aforementioned states and cities data for population and crime
-2. Mine through, merge, and clean data
-3. Create visualizations of the data outputs 
+#### Sample Output
+![sample.png](sample.png)
